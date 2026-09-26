@@ -5,7 +5,6 @@ As class president, I want to take initiative and support everyone so that nobod
 
 My goal is to set a great example of responsibility and care for my own classmates. By keeping this to-do list up to date, I hope to make it easier for everyone to stay organized with their tasks while also reducing their own stress.
 
-
 Features
 
 To-do list: Due date, Status (not started, in progress, done), Comment, Notes (allow images), a “Done” overview, Visual Display of a Calendar, and data stored locally.
