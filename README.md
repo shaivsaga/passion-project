@@ -1,4 +1,4 @@
-# passion-project
+# TaskTracker
 A Notion-esque to-do list website for my classmates who struggle to keep up with schoolwork.
 
 As class president, I want to take initiative and support everyone so that nobody falls behind.
